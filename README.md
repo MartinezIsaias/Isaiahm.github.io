@@ -4,7 +4,7 @@
     <tr>
       <td><b>Information</b></td>
       <td width="50%" rowspan="4">
-        <img alt="Photo" src="./main/IMG-20251014.jpg" />
+        <img alt="Photo" src="IMG-20251014.jpg" />
       </td>
     </tr>
     <tr>
