@@ -4,13 +4,13 @@
     <tr>
       <td><b>Information</b></td>
       <td width="50%" rowspan="4">
-        <img alt="Photo" src="IMG_20251014_222356cropped.jpg""> />
+        <img alt="Photo" src="IMG_20251014_222356cropped.jpg" />
       </td>
     </tr>
     <tr>
       <td>
         <ul>
-          <li>your@email.com</li>
+          <li>zayh.martinez@gmail.com</li>
           <li><a href="https://www.linkedin.com/in/isaiah-martinez-8bb38230b/">LinkedIn</a></li>
           <li><a href="https://github.com/MartinezIsaias">GitHub</a></li>
           <li>. . .</li>
