@@ -12,7 +12,7 @@
         <ul>
           <li>zayh.martinez@gmail.com <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/3840px-Gmail_icon_%282020%29.svg.png" style="width: 20px; height: 15px;"> </li>
           <li><a href="https://www.linkedin.com/in/isaiah-martinez-8bb38230b/">LinkedIn</a><img src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" style="width: 30px; height: 25px;"></li>
-          <li><a href="https://github.com/MartinezIsaias">GitHub</a><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" style="width: 25px; height: 25px; margin-top: 30px;"> </li>
+          <li><a href="https://github.com/MartinezIsaias">GitHub</a><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" style="width: 25px; height: 25px; margin-left: 5px;"> </li>
         </ul>
       </td>
     </tr>
