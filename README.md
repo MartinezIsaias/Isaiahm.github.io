@@ -4,7 +4,7 @@
     <tr>
       <td><b>Information</b></td>
       <td width="50%" rowspan="4">
-        <img alt="Photo" src="https://avatars.githubusercontent.com/u/6496040?s=400&u=17b1c2e3d5d678e258699d1de7ae172f4e1272c9&v=4" />
+        <img alt="Photo" src="./main/IMG-20251014.jpg" />
       </td>
     </tr>
     <tr>
