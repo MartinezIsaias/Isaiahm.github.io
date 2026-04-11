@@ -31,7 +31,7 @@
     </tr>
     <tr>
       <td>
-        <p align="justify">I am currently interning at Saint Xavier Catholic High School as IT Help Desk. I am responsible for addressing and fixing technology issues that arise during operating hours for students and faculty. I work with Active Directory, Google Admin Panel, Jamf Mobile Device Management Software and troubleshooting skills to succeed in this position. My full resume is here!</p>
+        <p align="justify">I am currently interning at Saint Xavier Catholic High School as IT Help Desk. I am responsible for addressing and fixing technology issues that arise during operating hours for students and faculty. I work with Active Directory, Google Admin Panel, Jamf Mobile Device Management Software and troubleshooting skills to succeed in this position.<br> My full resume is <a href="Isaiah Martinez Resume Spring 2026.docx">here!</a></p>
       </td>
     </tr>
   </tbody>
