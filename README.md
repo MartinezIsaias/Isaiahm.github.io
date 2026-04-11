@@ -19,7 +19,7 @@
   </tbody>
 </table>
   
-  <table>
+<table>
   <tbody>
     <tr>
       <td>
@@ -34,15 +34,20 @@
         <p align="justify">I am currently interning at Saint Xavier Catholic High School as IT Help Desk. I am responsible for addressing and fixing technology issues that arise during operating hours for students and faculty. I work with Active Directory, Google Admin Panel, Jamf Mobile Device Management Software and troubleshooting skills to succeed in this position. My full resume is here!</p>
       </td>
     </tr>
-  </table>
-  <table>
-    <tbody>
-      <tr>
-        <td>
-          <b>Projects</b>
-        </td>
-        <tr>
-        </tr>
-      </tr>
+  </tbody>
+</table>
+<table>
+  <tbody>
+    <tr>
+      <td width="100%">
+        <b>Projects</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li> list projects here</li>
+      </td>
+    </tr>
     </tbody>
   </table>
