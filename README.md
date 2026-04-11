@@ -16,7 +16,8 @@
         </ul>
       </td>
     </tr>
-  </table>
+  </tbody>
+</table>
   
   <table>
   <tbody>
