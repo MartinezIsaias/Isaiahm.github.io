@@ -2,7 +2,7 @@
 <table>
   <tbody>
     <tr>
-      <td><b>Information</b></td>
+      <td align="center"><b>Information</b></td>
       <td width="25%" rowspan="2">
         <img alt="Photo" src="IMG_20251014_222356cropped.jpg" />
       </td>
@@ -22,7 +22,7 @@
 <table>
   <tbody>
     <tr>
-      <td>
+      <td align="center">
         <b>Experience</b>
       </td>
       <td width="25%" rowspan="2">
@@ -39,14 +39,22 @@
 <table>
   <tbody>
     <tr>
-      <td width="100%">
+      <td width="20%" align="center">
         <b>Projects</b>
+      </td>
+      <td width="80%" align="center">
+        <b>Description</b>
       </td>
     </tr>
     <tr>
       <td>
         <ul>
-          <li> list projects here</li>
+          <li> <a href="https://github.com/MartinezIsaias/CIS4240-Project-with-Pets4Life">CIS-420 Project</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <p align="justify">Continuation of CIS-320 course. Working with a team of five people to build a website that will facilitate the business process of the Pet4Life non-profit organization. Filled out numerous project documentation highlighting many details on how the project will be developed. Developing a website hosted on open-source CMS WordPress. Presented real in-development website to client as a 50% demo.</p>
         </ul>
       </td>
     </tr>
