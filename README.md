@@ -47,6 +47,9 @@
       </td>
     </tr>
     <tr>
+      <th colspan="2">Project Management</th>
+    </tr>
+    <tr>
       <td>
         <ul>
           <li> <a href="https://github.com/MartinezIsaias/CIS4240-Project-with-Pets4Life">CIS-420 Project</a></li>
@@ -57,6 +60,28 @@
           <p align="justify">Continuation of CIS-320 course. Working with a team of five people to build a website that will facilitate the business process of the Pet4Life non-profit organization. Filled out numerous project documentation highlighting many details on how the project will be developed. Developing a website hosted on open-source CMS WordPress. Presented real in-development website to client as a 50% demo.</p>
         </ul>
       </td>
+    </tr>
+    <tr>
+      <th colspan="2">Information Security & Networking</th>
+    </tr>
+    <tr>
+      <td>
+        <li><a align="center" href="https://github.com/MartinezIsaias/Networking-and-Security/blob/b588bf1913d254178742fa0644b6824b2b663329/Configuring%20a%20VPN%20Server%20with%20pfSense%20-%20Isaiah%20Martinez.pdf">Configuring a VPN Server with pfSense</a></li>
+      </td>
+      <td>
+        <p>This is a small lab showing hands-on work of me configuring a VPN server on a pfSense firewall interface.</p>
+      </td>
+    </tr>
+        <tr>
+      <td>
+        <li><a align="center" href="https://github.com/MartinezIsaias/Networking-and-Security/blob/b588bf1913d254178742fa0644b6824b2b663329/Monitoring%20and%20Logging%20Network%20Traffic%20Isaiah%20Martinez.pdf">Monitoring and Logging Network Traffic</a></li>
+      </td>
+      <td>
+        <p>This is a small lab of me configuring network traffic logs and monitoring on a pfSense firewall interface.</p>
+      </td>
+    </tr>
+    <tr>
+      <th colspan="2">Digital Forensics</th>
     </tr>
   </tbody>
 </table>
