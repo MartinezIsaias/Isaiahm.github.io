@@ -39,10 +39,10 @@
 <table>
   <tbody>
     <tr>
-      <td width="20%" align="center">
+      <td width="30%" align="center">
         <b>Projects</b>
       </td>
-      <td width="80%" align="center">
+      <td width="70%" align="center">
         <b>Description</b>
       </td>
     </tr>
@@ -69,19 +69,27 @@
         <li><a align="center" href="https://github.com/MartinezIsaias/Networking-and-Security/blob/b588bf1913d254178742fa0644b6824b2b663329/Configuring%20a%20VPN%20Server%20with%20pfSense%20-%20Isaiah%20Martinez.pdf">Configuring a VPN Server with pfSense</a></li>
       </td>
       <td>
-        <p>This is a small lab showing hands-on work of me configuring a VPN server on a pfSense firewall interface.</p>
+        <p align="justify">This is a small lab showing hands-on work of me configuring a VPN server on a pfSense firewall interface.</p>
       </td>
     </tr>
         <tr>
       <td>
-        <li><a align="center" href="https://github.com/MartinezIsaias/Networking-and-Security/blob/b588bf1913d254178742fa0644b6824b2b663329/Monitoring%20and%20Logging%20Network%20Traffic%20Isaiah%20Martinez.pdf">Monitoring and Logging Network Traffic</a></li>
+        <li><a align="justify" href="https://github.com/MartinezIsaias/Networking-and-Security/blob/b588bf1913d254178742fa0644b6824b2b663329/Monitoring%20and%20Logging%20Network%20Traffic%20Isaiah%20Martinez.pdf">Monitoring and Logging Network Traffic</a></li>
       </td>
       <td>
-        <p>This is a small lab of me configuring network traffic logs and monitoring on a pfSense firewall interface.</p>
+        <p align="justify">This is a small lab of me configuring network traffic logs and monitoring on a pfSense firewall interface.</p>
       </td>
     </tr>
     <tr>
       <th colspan="2">Digital Forensics</th>
+    </tr>
+    <tr>
+      <td>
+        <li><a align="center" href="https://github.com/MartinezIsaias/Computer-Forensics/tree/main">Mock Forensic Analysis</li>
+      </td>
+      <td>
+        <p>This is a mock forensic analysis where we were given a file to extract data from and find as much evidence of a criminal as possible. </p>
+      </td>
     </tr>
   </tbody>
 </table>
