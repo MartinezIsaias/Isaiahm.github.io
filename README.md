@@ -62,6 +62,17 @@
       <td>A simple C# form program that can let you track your excercise.</td>
     </tr>
     <tr>
+      <td colspan="2" align="center"><b>SQL Code & Database Design</b></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MartinezIsaias/Database-Design">ERD Diagram of Database</a></td>
+      <td>This was an assignment where I had to create an ERD diagram of a database using crow's foot notation.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MartinezIsaias/SQL-Code">StayWell Database Queries</a></td>
+      <td>A collection of SQL files that hold SQL queries of the StayWell Database which is provided in the repository.</td>
+    </tr>
+    <tr>
       <th colspan="2">Project Management</th>
     </tr>
     <tr>
