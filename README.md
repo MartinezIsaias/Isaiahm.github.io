@@ -47,33 +47,27 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">C# Code</td>
+      <td colspan="2" align="center"><b>C# Code</b></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MartinezIsaias/Dentist-Cost-Estimator-Program">Dentist Cost Estimator Program</a></td>
-      <td> test</td>
+      <td align="center"><a href="https://github.com/MartinezIsaias/Dentist-Cost-Estimator-Program">Dentist Cost Estimator Program</a></td>
+      <td> A simple C# form program that will estimate the cost of your dentist visit.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MartinezIsaias/Shipping-Quote-Program">Shipping Quote Program</a></td>
-      <td>test</td>
+      <td align="center"><a href="https://github.com/MartinezIsaias/Shipping-Quote-Program">Shipping Quote Program</a></td>
+      <td>A small C# form program that will quote a price to ship an item.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MartinezIsaias/Fitness-Tracker-Program">Fitness Tracker Program</a></td>
-      <td>test</td>
+      <td align="center"><a href="https://github.com/MartinezIsaias/Fitness-Tracker-Program">Fitness Tracker Program</a></td>
+      <td>A simple C# form program that can let you track your excercise.</td>
     </tr>
     <tr>
       <th colspan="2">Project Management</th>
     </tr>
     <tr>
+      <td align="center"> <a href="https://github.com/MartinezIsaias/CIS4240-Project-with-Pets4Life">CIS-420 Project</a></td>
       <td>
-        <ul>
-          <li> <a href="https://github.com/MartinezIsaias/CIS4240-Project-with-Pets4Life">CIS-420 Project</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
           <p align="justify">Continuation of CIS-320 course. Working with a team of five people to build a website that will facilitate the business process of the Pet4Life non-profit organization. Filled out numerous project documentation highlighting many details on how the project will be developed. Developing a website hosted on open-source CMS WordPress. Presented real in-development website to client as a 50% demo.</p>
-        </ul>
       </td>
     </tr>
     <tr>
@@ -81,15 +75,15 @@
     </tr>
     <tr>
       <td>
-        <li><a align="center" href="https://github.com/MartinezIsaias/Networking-and-Security/blob/b588bf1913d254178742fa0644b6824b2b663329/Configuring%20a%20VPN%20Server%20with%20pfSense%20-%20Isaiah%20Martinez.pdf">Configuring a VPN Server with pfSense</a></li>
+        <a align="center" href="https://github.com/MartinezIsaias/Networking-and-Security/blob/b588bf1913d254178742fa0644b6824b2b663329/Configuring%20a%20VPN%20Server%20with%20pfSense%20-%20Isaiah%20Martinez.pdf">Configuring a VPN Server with pfSense</a>
       </td>
       <td>
         <p align="justify">This is a small lab showing hands-on work of me configuring a VPN server on a pfSense firewall interface.</p>
       </td>
     </tr>
         <tr>
-      <td>
-        <li><a align="justify" href="https://github.com/MartinezIsaias/Networking-and-Security/blob/b588bf1913d254178742fa0644b6824b2b663329/Monitoring%20and%20Logging%20Network%20Traffic%20Isaiah%20Martinez.pdf">Monitoring and Logging Network Traffic</a></li>
+      <td align="center">
+        <a align="justify" href="https://github.com/MartinezIsaias/Networking-and-Security/blob/b588bf1913d254178742fa0644b6824b2b663329/Monitoring%20and%20Logging%20Network%20Traffic%20Isaiah%20Martinez.pdf">Monitoring and Logging Network Traffic</a>
       </td>
       <td>
         <p align="justify">This is a small lab of me configuring network traffic logs and monitoring on a pfSense firewall interface.</p>
@@ -99,8 +93,8 @@
       <th colspan="2">Digital Forensics</th>
     </tr>
     <tr>
-      <td>
-        <li><a align="center" href="https://github.com/MartinezIsaias/Computer-Forensics/tree/main">Mock Forensic Analysis</li>
+      <td align="center">
+        <a align="center" href="https://github.com/MartinezIsaias/Computer-Forensics/tree/main">Mock Forensic Analysis
       </td>
       <td>
         <p>This is a mock forensic analysis where we were given a file to extract data from and find as much evidence of a criminal as possible. </p>
