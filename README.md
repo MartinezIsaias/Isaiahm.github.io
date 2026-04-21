@@ -50,15 +50,15 @@
       <td colspan="2" align="center">C# Code</td>
     </tr>
     <tr>
-      <td href="https://github.com/MartinezIsaias/Dentist-Cost-Estimator-Program">Dentist Cost Estimator Program</td>
+      <td><a href="https://github.com/MartinezIsaias/Dentist-Cost-Estimator-Program">Dentist Cost Estimator Program</a></td>
       <td> test</td>
     </tr>
     <tr>
-      <td href="https://github.com/MartinezIsaias/Shipping-Quote-Program">Shipping Quote Program</td>
+      <td><a href="https://github.com/MartinezIsaias/Shipping-Quote-Program">Shipping Quote Program</a></td>
       <td>test</td>
     </tr>
     <tr>
-      <td href="https://github.com/MartinezIsaias/Fitness-Tracker-Program">Fitness Tracker Program</td>
+      <td><a href="https://github.com/MartinezIsaias/Fitness-Tracker-Program">Fitness Tracker Program</a></td>
       <td>test</td>
     </tr>
     <tr>
