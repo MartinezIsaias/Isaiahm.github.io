@@ -82,6 +82,10 @@
       </td>
     </tr>
     <tr>
+      <td><a align="justify" href="https://github.com/MartinezIsaias/CIS-320-Project">CIS-320 Project</a></td>
+      <td>Worked with a team following the Agile workflow to propose a new system for Pet4Life non-profit organization that provides pet and pet owner resources. Planned and designed a new website and system to improve the facilitation of their business processes. Worked on three phases of the SDLC; Analyze, Define, and Design, which were documented as deliverables. </td>
+    </tr>
+    <tr>
       <th colspan="2">Information Security & Networking</th>
     </tr>
     <tr>
