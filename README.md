@@ -65,11 +65,11 @@
       <td colspan="2" align="center"><b>SQL Code & Database Design</b></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MartinezIsaias/Database-Design">ERD Diagram of Database</a></td>
+      <td align="center"><a href="https://github.com/MartinezIsaias/Database-Design">ERD Diagram of Database</a></td>
       <td>This was an assignment where I had to create an ERD diagram of a database using crow's foot notation.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MartinezIsaias/SQL-Code">StayWell Database Queries</a></td>
+      <td align="center"><a href="https://github.com/MartinezIsaias/SQL-Code">StayWell Database Queries</a></td>
       <td>A collection of SQL files that hold SQL queries of the StayWell Database which is provided in the repository.</td>
     </tr>
     <tr>
@@ -82,8 +82,8 @@
       </td>
     </tr>
     <tr>
-      <td><a align="justify" href="https://github.com/MartinezIsaias/CIS-320-Project">CIS-320 Project</a></td>
-      <td>Worked with a team following the Agile workflow to propose a new system for Pet4Life non-profit organization that provides pet and pet owner resources. Planned and designed a new website and system to improve the facilitation of their business processes. Worked on three phases of the SDLC; Analyze, Define, and Design, which were documented as deliverables. </td>
+      <td align="center"><a  href="https://github.com/MartinezIsaias/CIS-320-Project">CIS-320 Project</a></td>
+      <td align="justify">Worked with a team following the Agile workflow to propose a new system for Pet4Life non-profit organization that provides pet and pet owner resources. Planned and designed a new website and system to improve the facilitation of their business processes. Worked on three phases of the SDLC; Analyze, Define, and Design, which were documented as deliverables. </td>
     </tr>
     <tr>
       <th colspan="2">Information Security & Networking</th>
